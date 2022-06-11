@@ -3,20 +3,27 @@
   <img align="left" alt="Dharmendra's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+<a href="https://stackoverflow.com/users/11095220/dharmendra-soni">
+  <img align="left" alt="Dharmendra's Stackoverflow" width="22px" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" />
+</a>
+
 <a href="https://www.linkedin.com/in/dharmendrashah/">
   <img align="left" alt="dharmendra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dharmendrasha)
 
 <br />
 
-hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+<br/>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+  <br/>
   
 - 💼 any freelance work? do reach, [email](mailto:dharmendrashah2002@yahoo.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -58,6 +65,8 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/dharmendrasoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<a href="https://stackexchange.com/users/15379390/dharmendra-soni"><img src="https://stackexchange.com/users/flair/15379390.png" width="208" height="58" alt="profile for Dharmendra Soni on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dharmendra Soni on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
