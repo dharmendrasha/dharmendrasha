@@ -21,7 +21,7 @@ Hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passio
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br/>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   <br/>
   
@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
-
+<div style="background: white">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://repository-images.githubusercontent.com/10371103/9d17b333-db5f-491d-b5b4-6043177f2c09"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/23666?s=200&v=4"></code>
@@ -49,6 +49,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"></code>
 
+</div>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
