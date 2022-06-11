@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dharmendra Shah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dharmendra Soni</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
