@@ -3,6 +3,10 @@
   <img align="left" alt="Dharmendra's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+<a href="https://twitter.com/Dharmen27675377">
+  <img align="left" alt="Dharmendra's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />
+</a>
+
 <a href="https://stackoverflow.com/users/11095220/dharmendra-soni">
   <img align="left" alt="Dharmendra's Stackoverflow" width="22px" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" />
 </a>
