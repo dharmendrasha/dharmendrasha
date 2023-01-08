@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br/>
@@ -29,7 +29,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
   <br/>
   
-- 💼 any freelance work? do reach, [email](mailto:dharmendrashah2002@yahoo.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
