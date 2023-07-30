@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://twitter.com/Dharmen27675377">
-  <img align="left" alt="Dharmendra's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />
+  <img align="left" alt="Dharmendra's Twitter" width="22px" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/11095220/dharmendra-soni">
@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/dharmendrashah/">
-  <img align="left" alt="dharmendra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="dharmendra's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
 
 
