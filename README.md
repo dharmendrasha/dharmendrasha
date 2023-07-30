@@ -16,7 +16,7 @@
 </a>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharmendrasha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=visitor-badge.laobi.icu)
 
 <br />
 
