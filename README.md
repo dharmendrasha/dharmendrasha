@@ -20,9 +20,10 @@
 
 <br />
 
-Hi, i'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hey there! I'm [Dharmendra Soni](https://www.linkedin.com/in/dharmendrashah/), a backend engineer who enjoys making the digital world run like a well-oiled machine. I might not create the flashy stuff you see on the front end, but I make sure everything behind the scenes is working smoothly (and on the first try… okay, maybe the second).
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+When I'm not wrangling databases and APIs, you’ll find me nerding out over open-source projects. The open-source community has taught me a ton, and I love how it’s basically a giant collaboration fest where everyone’s invited to the geeky party!
+
 <br/>
 
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
